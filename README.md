@@ -53,34 +53,20 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
- 📖**Bachelor's of technology-< Information Technology >**
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2020-2024 >**\
+ 📖**Bachelor's of technology-< Computer Science And Engineering >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
+ - 📍 **Uttrakhand Board of Secondary Education**------------------**< 2018-2020 >**\
+   📖**Senior Secondary Schooling-< PCM >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
-   📖**Secondary Schooling**
+ - 📍 **Uttrakhand Board of Secondary Education**------------------**< 2016-2018 >**\
+   📖**High School**
  
    
    
    
  ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
-   
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
+ 
 
    </details>
    
